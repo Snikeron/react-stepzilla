@@ -67,7 +67,7 @@ export default class Step5 extends Component {
           <form id="Form" className="form-horizontal">
             <div className="form-group">
               <label className="col-md-12 control-label">
-                <h1>Step 4: Review your Details and 'Save'</h1>
+                <h1>Step 5: Review your Details and 'Save'</h1>
               </label>
             </div>
             <div className="form-group">
